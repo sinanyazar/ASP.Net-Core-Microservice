@@ -1,0 +1,12 @@
+C:\Users\ABRA\Desktop\Microservices\RepositoryLayer\obj\Debug\netcoreapp2.2\RepositoryLayer.csprojAssemblyReference.cache
+C:\Users\ABRA\Desktop\Microservices\RepositoryLayer\obj\Debug\netcoreapp2.2\RepositoryLayer.csproj.CoreCompileInputs.cache
+C:\Users\ABRA\Desktop\Microservices\RepositoryLayer\obj\Debug\netcoreapp2.2\RepositoryLayer.AssemblyInfoInputs.cache
+C:\Users\ABRA\Desktop\Microservices\RepositoryLayer\obj\Debug\netcoreapp2.2\RepositoryLayer.AssemblyInfo.cs
+C:\Users\ABRA\Desktop\Microservices\RepositoryLayer\bin\Debug\netcoreapp2.2\RepositoryLayer.deps.json
+C:\Users\ABRA\Desktop\Microservices\RepositoryLayer\bin\Debug\netcoreapp2.2\RepositoryLayer.dll
+C:\Users\ABRA\Desktop\Microservices\RepositoryLayer\bin\Debug\netcoreapp2.2\RepositoryLayer.pdb
+C:\Users\ABRA\Desktop\Microservices\RepositoryLayer\bin\Debug\netcoreapp2.2\Entities.dll
+C:\Users\ABRA\Desktop\Microservices\RepositoryLayer\bin\Debug\netcoreapp2.2\Entities.pdb
+C:\Users\ABRA\Desktop\Microservices\RepositoryLayer\obj\Debug\netcoreapp2.2\RepositoryLayer.csproj.CopyComplete
+C:\Users\ABRA\Desktop\Microservices\RepositoryLayer\obj\Debug\netcoreapp2.2\RepositoryLayer.dll
+C:\Users\ABRA\Desktop\Microservices\RepositoryLayer\obj\Debug\netcoreapp2.2\RepositoryLayer.pdb

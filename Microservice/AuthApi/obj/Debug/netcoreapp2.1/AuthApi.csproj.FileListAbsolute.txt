@@ -1,0 +1,14 @@
+C:\Users\sinan\source\repos\Tesodev_Case\Microservices\AuthApi\bin\Debug\netcoreapp2.1\AuthApi.deps.json
+C:\Users\sinan\source\repos\Tesodev_Case\Microservices\AuthApi\bin\Debug\netcoreapp2.1\AuthApi.runtimeconfig.json
+C:\Users\sinan\source\repos\Tesodev_Case\Microservices\AuthApi\bin\Debug\netcoreapp2.1\AuthApi.runtimeconfig.dev.json
+C:\Users\sinan\source\repos\Tesodev_Case\Microservices\AuthApi\bin\Debug\netcoreapp2.1\AuthApi.dll
+C:\Users\sinan\source\repos\Tesodev_Case\Microservices\AuthApi\obj\Debug\netcoreapp2.1\AuthApi.csproj.CoreCompileInputs.cache
+C:\Users\sinan\source\repos\Tesodev_Case\Microservices\AuthApi\obj\Debug\netcoreapp2.1\AuthApi.RazorAssemblyInfo.cache
+C:\Users\sinan\source\repos\Tesodev_Case\Microservices\AuthApi\obj\Debug\netcoreapp2.1\AuthApi.RazorAssemblyInfo.cs
+C:\Users\sinan\source\repos\Tesodev_Case\Microservices\AuthApi\obj\Debug\netcoreapp2.1\AuthApi.AssemblyInfoInputs.cache
+C:\Users\sinan\source\repos\Tesodev_Case\Microservices\AuthApi\obj\Debug\netcoreapp2.1\AuthApi.AssemblyInfo.cs
+C:\Users\sinan\source\repos\Tesodev_Case\Microservices\AuthApi\obj\Debug\netcoreapp2.1\AuthApi.RazorTargetAssemblyInfo.cache
+C:\Users\sinan\source\repos\Tesodev_Case\Microservices\AuthApi\bin\Debug\netcoreapp2.1\AuthApi.pdb
+C:\Users\sinan\source\repos\Tesodev_Case\Microservices\AuthApi\obj\Debug\netcoreapp2.1\AuthApi.dll
+C:\Users\sinan\source\repos\Tesodev_Case\Microservices\AuthApi\obj\Debug\netcoreapp2.1\AuthApi.pdb
+C:\Users\sinan\source\repos\Tesodev_Case\Microservices\AuthApi\obj\Debug\netcoreapp2.1\AuthApi.csprojAssemblyReference.cache
